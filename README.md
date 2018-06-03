@@ -9,6 +9,6 @@ Since the database is large, a cropped version will be provided in the future.
 
 The database will be updated by including more camera lens and more challeging scenes.
 
-If you find this resource useful, please kindly cite the link.
+If you find this resource useful, please kindly include the link in your paper.
 
 For more questions, please contact me via kong.zm@mail.scut.edu.cn.
