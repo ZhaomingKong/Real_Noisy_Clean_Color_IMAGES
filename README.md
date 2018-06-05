@@ -5,7 +5,7 @@ This database consists of more than 100 real noisy and clean images using differ
 
 The download link is available at https://pan.baidu.com/s/1yejcceQ9tNVjbAWagpzDxw, to get the password, please contact kong.zm@mail.scut.edu.cn. Also to download the resources, you might need to first install Baidu Netdisk (available at https://pan.baidu.com/download).
 
-Since the database is large, a cropped version containing about 200 images is also available at https://pan.baidu.com/s/1fDBWyxyfG27dwlpRPqhc5Q, the cropped images are carefully chosen so that there does not exist clear misalignment.
+Since the database is large, a cropped version containing about 200 images is also available at https://pan.baidu.com/s/1fDBWyxyfG27dwlpRPqhc5Q, the cropped images are carefully chosen so that there do not exist clear misalignment. Also, the cropped images are divided into two separate parts: indoor scenes and outdoor scenes. We think that the outdoor scenes may better reflect the real needs, because the lighting condition of many indoor scenes could be manually controlled.
 
 The database will be updated by including more camera lens and daily scenes.
 
