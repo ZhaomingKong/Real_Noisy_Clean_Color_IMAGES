@@ -12,3 +12,7 @@ The database will be updated by including more camera lens and daily scenes.
 If you find this resource useful, please kindly include the link in your paper.
 
 For more questions, please contact me via kong.zm@mail.scut.edu.cn.
+
+
+******************************** Update 1.0 ************************************
+Images using new camera lens (Canon 100D and Sony A6500) are uploaded 7/18/2018 
