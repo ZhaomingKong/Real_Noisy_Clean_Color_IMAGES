@@ -11,6 +11,8 @@ The database will be updated by including more camera lens and daily scenes.
 
 If you find this resource useful, please kindly include the link in your paper.
 
+For more information, please refer to our paper 'A Brief Review of Real-World Color Image Denoising', available at https://arxiv.org/pdf/1809.03298.pdf.
+
 For more questions, please contact me via kong.zm@mail.scut.edu.cn.
 
 
