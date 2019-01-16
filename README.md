@@ -19,5 +19,5 @@ For more questions, please contact me via kong.zm@mail.scut.edu.cn.
 ******************************** Update 1.0 ************************************
 Images using new camera brands (Canon 100D and Sony A6500) are uploaded 7/18/2018 
 
-******************************** Update 2.0 ************************************
-Images using new camera brands (IPHONE 7 and OPPO R11s) will be uploaded 28/1/2019
+******************************** Update 2.0 *************************************
+Images using new camera brands (IPHONE 7 and OPPO R11s) will be uploaded very soon
