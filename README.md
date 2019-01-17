@@ -7,7 +7,7 @@ The download link is available at https://pan.baidu.com/s/1yejcceQ9tNVjbAWagpzDx
 
 Since the database is large, a cropped version containing about 200 images is also available at https://pan.baidu.com/s/1fDBWyxyfG27dwlpRPqhc5Q, the cropped images are carefully chosen so that there do not exist clear misalignment. Also, the cropped images are divided into two separate parts: indoor scenes and outdoor scenes. We think that the outdoor scenes may better reflect the real needs, because the lighting condition can not be manually controlled.
 
-The database will be updated by including more camera lens and daily scenes.
+The database will be updated by including more camera lens and daily scenes. We notice that many advanced devices are recently equipped with 'Night Sight' mode, more images under low-light conditions will also be included.
 
 If you find this resource useful, please kindly include the link in your paper.
 
