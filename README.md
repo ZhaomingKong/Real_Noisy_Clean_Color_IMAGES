@@ -21,3 +21,5 @@ Images using new camera brands (Canon 100D and Sony A6500) are uploaded 7/18/201
 
 ******************************** Update 2.0 *************************************
 Images using new camera brands (Xiaomi 8 and OPPO R11s) will be uploaded very soon
+
+Photos taken by OPPO R11s are uploaded 24/1/2019. 
