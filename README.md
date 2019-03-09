@@ -20,7 +20,7 @@ For more questions, please contact me via kong.zm@mail.scut.edu.cn.
 Images using new camera brands (Canon 100D and Sony A6500) are uploaded 7/18/2018 
 
 ******************************** Update 2.0 *************************************
-Photos taken by OPPO R11s are uploaded 24/1/2019. 
+Photos taken by OPPO R11s are uploaded 1/24/2019. 
 
 ******************************** Update 3.0 *************************************
-Photos taken by XIAOMI8 (DXOMARK 103) are uploaded 5/2/2019. Happy Chinese New Year
+Photos taken by XIAOMI8 (DXOMARK 103) are uploaded 2/5/2019. Happy Chinese New Year
