@@ -30,3 +30,6 @@ The dataset is uploaded to googledrive. Feel free to contact me for share link
 
 ******************************** Update 5.0 ***************************************
 Photos taken by Fujifilm X100T are uploaded 6/28/2020. Keep healthy and stay at home
+
+******************************** Update 6.0 ***************************************
+Photos taken by NIKON D5300 are uploaded 11/08/2020. Keep healthy and stay at home
