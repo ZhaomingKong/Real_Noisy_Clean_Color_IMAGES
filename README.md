@@ -11,16 +11,18 @@ The database will be updated by including more camera lens and daily scenes. We 
 
 If you find this resource useful, please kindly include the link in your paper.
 
-For more information, please refer to our paper 'A Brief Review of Real-World Color Image Denoising', available at https://arxiv.org/pdf/1809.03298.pdf.
+For more information, please refer to our paper 'A Brief Review of Real-World Color Image Denoising', available at https://arxiv.org/pdf/1809.03298.pdf, and also 'A Comprehensive Comparison of Multi-Dimensional Image Denoising Methods', available at https://arxiv.org/abs/2011.03462.
 
 For more questions, please contact me via kong.zm@mail.scut.edu.cn.
 
 
 ******************************** Update 1.0 ***************************************
 Images using new camera brands (Canon 100D and Sony A6500) are uploaded 7/18/2018 
+Thank you Zhuoyun Zheng and Ayi for sharing your cameras.
 
 ******************************** Update 2.0 ***************************************
 Photos taken by OPPO R11s are uploaded 1/24/2019. 
+Thank you Haoxue Yang for sharing your camera.
 
 ******************************** Update 3.0 ***************************************
 Photos taken by XIAOMI8 (DXOMARK 103) are uploaded 2/5/2019. Happy Chinese New Year
@@ -29,7 +31,8 @@ Photos taken by XIAOMI8 (DXOMARK 103) are uploaded 2/5/2019. Happy Chinese New Y
 The dataset is uploaded to googledrive. Feel free to contact me for share link
 
 ******************************** Update 5.0 ***************************************
-Photos taken by Fujifilm X100T are uploaded 6/28/2020. Keep healthy and stay at home
+Photos taken by Fujifilm X100T are uploaded 6/28/2020. Keep healthy and stay at home.
 
 ******************************** Update 6.0 ***************************************
-Photos taken by NIKON D5300 are uploaded 11/08/2020. Keep healthy and stay at home
+Photos taken by NIKON D5300 are uploaded 11/08/2020. Keep healthy and stay at home.
+Thank you Shusen Jing for sharing your camera.
