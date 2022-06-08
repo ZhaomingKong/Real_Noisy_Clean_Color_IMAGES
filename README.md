@@ -36,3 +36,10 @@ Photos taken by Fujifilm X100T are uploaded 6/28/2020. Keep healthy and stay at 
 ******************************** Update 6.0 ***************************************
 Photos taken by NIKON D5300 are uploaded 11/08/2020. Keep healthy and stay at home.
 Thank you Shusen Jing for sharing your camera.
+
+******************************** Update 7.0 ***************************************
+Photos taken by HUAWEI Mate40Pro are uploaded 04/08/2022. The image quality is amazing.
+
+******************************** Update 8.0 ***************************************
+Photos taken by IPHONE13 are uploaded 05/08/2022. Lets go Warriors!
+
